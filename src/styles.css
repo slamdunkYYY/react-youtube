@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.video-search-wrapper {
+	max-width: 800px;
+	cursor: pointer;
+}
+.video-item-wrapper {
+	margin-bottom: 30px;
+}
+.title {
+	text-align: center;
+}
+input {
+	width: 100%;
+}
+.search-bar {
+	margin-bottom: 30px;
+}
